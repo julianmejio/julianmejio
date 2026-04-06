@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Generative_AI-Gemini-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-### CTO & Systems Architect
+### Lead Software Egineer & Systems Architect
 **Driving Engineering Excellence through Automation, Security, and AI**
 
 Strategic technical leader specialized in navigating high-stakes engineering transitions and M&A integrations. I focus on bridging the gap between deep-tech execution and long-term business strategy by transforming complex infrastructure into a scalable competitive advantage.
